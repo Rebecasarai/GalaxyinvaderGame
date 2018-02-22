@@ -1,0 +1,5 @@
+C:\Users\rsgonzalez\Documents\GalaxyInvaders\Capa-BL\Capa-BL.csproj;x86
+C:\Users\rsgonzalez\Documents\GalaxyInvaders\Capa-DAL\Capa-DAL.csproj;x86
+C:\Users\rsgonzalez\Documents\GalaxyInvaders\Entities\Entities.csproj;x86
+C:\Users\rsgonzalez\Documents\GalaxyInvaders\Entities\Entities.csproj;x86
+C:\Users\rsgonzalez\Documents\GalaxyInvaders\SpaceInvaders\SpaceInvaders.csproj;x86
